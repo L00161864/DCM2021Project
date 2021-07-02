@@ -1,0 +1,9 @@
+[
+  {
+    "Description": "Aline Laza Web Server",
+    "Format": "vmdk",
+    "UserBucket": {
+        "S3Bucket": "alazarotto",
+        "S3Key": "Ubuntu-1804-disk1.vmdk"
+    }
+}]
